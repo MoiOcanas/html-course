@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+.tracklist {
+    background:lightgrey;
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
